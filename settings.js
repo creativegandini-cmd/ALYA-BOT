@@ -23,8 +23,8 @@ global.ig = '@kennnvy_'
 global.tele = '@Kennvxy_'
 global.ttowner = '@biaann12'
 global.ownername = 'kennzy'
-global.owner = ['6285165915352'] //ganti juga di database/owner.json
-global.ownernomer = '6285165915352' //ganti juga di database/owner.json
+global.owner = ['6285155054456'] //ganti juga di database/owner.json
+global.ownernomer = '6285155054456' //ganti juga di database/owner.json
 global.socialm = 'GitHub: -'
 global.location = 'Indonesia' 
 global.aiso = [
@@ -75,10 +75,10 @@ global.emoji = [
 ]
 //==================setting bot===========================\\
 global.botname = "Alya chan Assisten"
-global.ownernumber = '6285165915352'
-global.botnumber = '6285165915352'
-global.ownername = 'kennzy'
-global.ownerNumber = ["6285165915352@s.whatsapp.net"]
+global.ownernumber = '6285155054456'
+global.botnumber = '6285174169454'
+global.ownername = 'Syid'
+global.ownerNumber = ["6285155054456@s.whatsapp.net"]
 global.ownerweb = "https://Yuuagames.free.nf"
 global.websitex = ""
 global.wagc = "https://chat.whatsapp.com/BwZfj2SjeY3EEf6fxQVRIq"
@@ -227,7 +227,7 @@ global.rpg = {
             phonix: "🦅",
             kyubi: "🦊",
             griffin: "🦒",
-            centaur: "🎠",
+            centaur: "� ",
             skata: '🧩'
         }
         let results = Object.keys(emot).map(v => [v, new RegExp(v, 'gi')]).filter(v => v[1].test(string))
